@@ -1,0 +1,14 @@
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/bin/Debug/net7.0/adventofcode-2022
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/bin/Debug/net7.0/adventofcode-2022.deps.json
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/bin/Debug/net7.0/adventofcode-2022.runtimeconfig.json
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/bin/Debug/net7.0/adventofcode-2022.dll
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/bin/Debug/net7.0/adventofcode-2022.pdb
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/adventofcode-2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/adventofcode-2022.AssemblyInfoInputs.cache
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/adventofcode-2022.AssemblyInfo.cs
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/adventofcode-2022.csproj.CoreCompileInputs.cache
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/adventofcode-2022.dll
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/refint/adventofcode-2022.dll
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/adventofcode-2022.pdb
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/adventofcode-2022.genruntimeconfig.cache
+/Users/cat-tuongtu/Documents/Projects/adventofcode-2022/obj/Debug/net7.0/ref/adventofcode-2022.dll
